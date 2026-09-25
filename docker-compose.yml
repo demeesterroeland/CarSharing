@@ -3,7 +3,7 @@
 
 services:
   carsharing:
-    image: ghcr.io/demeesterroel/carsharing:latest
+    image: ghcr.io/demeesterroeland/carsharing:latest
     restart: unless-stopped
     deploy:
       update_config:
