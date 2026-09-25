@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.21.3](https://github.com/demeesterroeland/CarSharing/compare/v1.21.2...v1.21.3) (2026-09-25)
+
+
+### 🐛 Bug fixes
+
+* **ci:** use dynamic repository owner for GHCR image publishing ([370ee2e](https://github.com/demeesterroeland/CarSharing/commit/370ee2e3634b830e3083bb07a78ef73025140f25))
+* **docker:** use Node http module for container healthcheck ([ccc173c](https://github.com/demeesterroeland/CarSharing/commit/ccc173ca01ffef2ffb3a7d5b86f4b7f71094d0c7))
+
 ## [1.21.2](https://github.com/demeesterroel/CarSharing/compare/v1.21.1...v1.21.2) (2026-08-09)
 
 
